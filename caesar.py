@@ -3,6 +3,7 @@ import os
 import string
 import argparse
 #i can see the  future
+#not you cant!
 try:
     maketrans = string.maketrans  # python2
 except AttributeError:
